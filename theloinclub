@@ -1,0 +1,719 @@
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+sh: 1: nodemon: Permission denied
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/route.js:211:15)
+    at Function.get (/home/thelionclub/htdocs/thelionclub.online/node_modules/express/lib/router/index.js:521:19)
+    at Object.initWebRouter (/home/thelionclub/htdocs/thelionclub.online/src/routes/web.js:84:10)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/src/server.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._compile (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.newLoader [as .js] (/home/thelionclub/htdocs/thelionclub.online/node_modules/pirates/lib/index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+
+Node.js v18.19.1
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/home/thelionclub/htdocs/thelionclub.online/src/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/node_modules/@babel/node/lib/_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/home/thelionclub/htdocs/thelionclub.online/src/server.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at Object.<anonymous> (/home/thelionclub/htdocs/thelionclub.online/node_modules/@babel/node/lib/_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+/home/thelionclub/htdocs/thelionclub.online/node_modules/mysql2/promise.js:341
+    const localErr = new Error();
+                     ^
+
+Error: Out of range value for column 'money' at row 34
+    at PromisePool.query (/home/thelionclub/htdocs/thelionclub.online/node_modules/mysql2/promise.js:341:22)
+    at call (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:889:30)
+    at tryCatch (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:2:1)
+    at Generator._invoke (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:2:1)
+    at Generator.next (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:2:1)
+    at asyncGeneratorStep (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:2:1)
+    at _next (/home/thelionclub/htdocs/thelionclub.online/src/controllers/adminController.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ER_WARN_DATA_OUT_OF_RANGE',
+  errno: 1264,
+  sql: "UPDATE users SET money = money + '3000000000000' WHERE id_user = '74729'",
+  sqlState: '22003',
+  sqlMessage: "Out of range value for column 'money' at row 34"
+}
+
+Node.js v18.19.1

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Income Page</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"
+    />
+    <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="//cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/dist/css/adminlte.min.css" />
+    <link rel="stylesheet" href="/css/admin.css" />
+  </head>
+
+  <body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+      <%- include('nav') %>
+      <div class="content-wrapper">
+        <section class="content-header">
+          <div class="container-fluid">
+            <div class="row mb-2">
+              <div class="col-sm-6">
+                <h1>All Incomes</h1>
+              </div>
+            </div>
+          </div>
+          <!-- /.container-fluid -->
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+          <!-- Default box -->
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">All Incomes</h3>
+
+              <div class="card-tools">
+                <button
+                  type="button"
+                  class="btn btn-tool"
+                  data-card-widget="collapse"
+                  title="Collapse"
+                >
+                  <i class="fas fa-minus"></i>
+                </button>
+                <button
+                  type="button"
+                  class="btn btn-tool"
+                  data-card-widget="remove"
+                  title="Remove"
+                >
+                  <i class="fas fa-times"></i>
+                </button>
+              </div>
+            </div>
+            <div class="card-body p-0" style="overflow-y: hidden">
+              <table class="table table-striped projects">
+                <thead>
+                  <tr>
+                    <th class="text-center">#</th>
+		    <th class="text-center">UserID</th>
+                    <th class="text-center">Date</th>
+                    <th class="text-center">Amount</th>
+                    <th class="text-center">Type</th>
+                    <th class="text-center">Ref_ID</th>
+                    <th class="text-center">Level No.</th>
+                    <th class="text-center">Remark</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <script src="/plugins/jquery/jquery.min.js"></script>
+    <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/dist/js/adminlte.min.js"></script>
+    <script src="/js/admin/admin.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script>
+      function formateT(params) {
+        let result = params < 10 ? "0" + params : params;
+        return result;
+      }
+
+      function timerJoin(params = "", addHours = 0) {
+        let date = "";
+        if (params) {
+          date = new Date(Number(params));
+        } else {
+          date = new Date();
+        }
+
+        date.setHours(date.getHours() + addHours);
+
+        let years = formateT(date.getFullYear());
+        let months = formateT(date.getMonth() + 1);
+        let days = formateT(date.getDate());
+
+        let hours = date.getHours() % 12;
+        hours = hours === 0 ? 12 : hours;
+        let ampm = date.getHours() < 12 ? "AM" : "PM";
+
+        let minutes = formateT(date.getMinutes());
+        let seconds = formateT(date.getSeconds());
+
+        return (
+          years +
+          "-" +
+          months +
+          "-" +
+          days +
+          " " +
+          hours +
+          ":" +
+          minutes +
+          ":" +
+          seconds +
+          " " +
+          ampm
+        );
+      }
+    </script>
+    <script>
+      function show(params) {
+        if (params.length == 0) {
+          $("tbody").html(`
+            <tr class="text-center">
+              <td colspan="7">No More...</td>
+            </tr>
+          `);
+          return;
+        }
+        let html = "";
+        let show = params.map((data) => {
+          html += `<tr class="text-center">
+                  <td id="${data.id}">
+                    ${data.id}
+                  </td>
+                  <td>
+                    <b>${data.date_time.split('T')[0]} ${data.date_time.split('T')[1].split('Z')[0].slice(0, -4)}</b>
+                  </td>
+		  <td>
+		    <b>${data.user_id}</b>
+		  </td>
+                  <td>
+                    ₹${data.amount}
+                  </td>
+                  <td>
+                    <b>${(data.type + "").toUpperCase()}</b>
+                  </td>
+                  <td style="min-width: 190px;">
+                    <b>${data.ref_id}</b>
+                  </td>
+                  <td style="min-width: 190px;">
+                    <b>${data.level_no}</b>
+                  </td>
+                  <td style="min-width: 190px;">
+                    <b>${data.remark}</b>
+                  </td>                  
+                </tr>`;
+        })
+        $("tbody").html(html);
+        $(".btn-success").click(function (e) {
+          e.preventDefault();
+          let id = $(this).attr("data");
+          $.ajax({
+            type: "POST",
+            url: "/api/webapi/admin/rechargeDuyet",
+            data: {
+              id: id,
+              type: "confirm",
+            },
+            dataType: "json",
+            success: function (response) {
+              Swal.fire("Good job!", "You Accepted The Recharge!", "success");
+              setTimeout(() => {
+                location.reload();
+              }, 100);
+            },
+          });
+        });
+      }
+      $.ajax({
+        type: "POST",
+        url: "/api/webapi/admin/incomePage",
+        data: {},
+        dataType: "json",
+        success: function (response) {
+          show(response.datas);
+        },
+      });
+    </script>
+  </body>
+</html>
