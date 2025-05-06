@@ -7,4 +7,5 @@ const configViewEngine = (app) => {
     app.set("views", path.join(__dirname, "../views")); 
 };
 
+
 module.exports = configViewEngine;
